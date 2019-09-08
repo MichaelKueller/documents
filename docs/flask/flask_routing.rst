@@ -167,7 +167,7 @@ You can use the errorhandler() decorator to customize the error page::
     By default 200 is assumed which translates to: all went well.
 
 
-Flask Bluepoint
+Flask Blueprint
 ===============
 A Blueprint object works similarly to a Flask application object,
 but it is not actually an application. It is a set of operations
